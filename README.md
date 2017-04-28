@@ -14,6 +14,10 @@ Datetime picker (plugins wrapper) for Angular.
 ## Installation
 `npm install --save ng2-datetime`
 
+If your project does not use jQuery yet, add the required jQuery packages as well:
+`npm install jquery --save`
+`npm install @types/jquery --save`
+
 ## Usage
 1. import some way or another the required dependencies in the following order:
    - Bootstrap CSS
