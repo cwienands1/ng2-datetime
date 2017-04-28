@@ -12,10 +12,13 @@ Datetime picker (plugins wrapper) for Angular.
 - [Bootstrap-timepicker __(JS+CSS)__](http://jdewit.github.io/bootstrap-timepicker/)
 
 ## Installation
-```npm install --save ng2-datetime```
+```
+npm install --save ng2-datetime
+```
 
 If your project does not use jQuery yet, add the required jQuery packages as well:
-```npm install jquery --save
+```
+npm install jquery --save
 npm install @types/jquery --save
 ```
 
